@@ -10,7 +10,7 @@ iOS Developer with hands-on experience building **production-ready apps** using 
 
 ---
 
-## 🔧 Core iOS Skills (Interview Focused)
+## 🔧 Core iOS Skills
 
 ### Language & UI
 - **Swift** – protocols, generics, memory management (ARC), error handling
@@ -46,9 +46,9 @@ iOS Developer with hands-on experience building **production-ready apps** using 
 
 ---
 
-## 📌 Featured Projects (What Interviewers Care About)
+## 📌 Featured Projects 
 
-### 🛒 E-commerce Screen Recorder App (iOS)
+### E-commerce And Screen Recorder App (iOS)
 **Tech:** Swift, UIKit, MVVM, Firebase, Realm  
 
 **Key Contributions:**
@@ -85,9 +85,13 @@ iOS Developer with hands-on experience building **production-ready apps** using 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://github.com/RajPatel-5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="github" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" alt="github" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rajkumar-patel-iosdev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIN"  height="40" />
   </a>
 </p>
