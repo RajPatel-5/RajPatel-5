@@ -1,23 +1,93 @@
-# Hi 👋, I'm Raj Patel
+# Hi 👋, I'm Raj Patel  
+### 📱 iOS Developer | Swift • UIKit • SwiftUI  
+📍 Mumbai, India
 
-### A passionate iOS developer from Mumbai, India
+---
 
-- 🔭 I'm currently working on **E-commerce
-Screen Recorder**
+## 👨‍💻 Professional Summary
 
-- 🌱 I'm currently learning **Flutter,
-SwiftUI**
+iOS Developer with hands-on experience building **production-ready apps** using **Swift and UIKit**, with growing expertise in **SwiftUI**. Strong focus on **clean architecture, performance, and maintainable code**. Comfortable working with APIs, local databases, and Firebase-backed applications.
 
-- 🤝 I'm looking for help with **iOS Architecture **
+---
 
-- 💬 Ask me about **Swift Programming 
-Xcode**
+## 🔧 Core iOS Skills (Interview Focused)
 
-<h3 align="left">Connect with me:</h3>
+### Language & UI
+- **Swift** – protocols, generics, memory management (ARC), error handling
+- **UIKit** – Auto Layout, UITableView/UICollectionView, View Controller lifecycle
+- **SwiftUI** – state management, navigation, reusable views
+
+### Architecture & Design
+- **MVC / MVVM**
+- **Clean Architecture (Use Cases, Repository Pattern)**
+- **SOLID principles**
+- Dependency Injection
+
+### Data & Networking
+- REST APIs (URLSession)
+- JSON parsing (Codable)
+- Local storage: **Realm, SQLite**
+- Firebase (Auth, Firestore, Storage)
+
+### App Quality & Performance
+- Multithreading (GCD)
+- Memory management & retain cycles
+- App debugging using Xcode Instruments
+- Error handling & logging
+
+---
+
+## 🛠 Tools & Workflow
+
+- Xcode
+- Git & GitHub (PRs, code reviews)
+- Postman
+- Figma (developer–designer collaboration)
+
+---
+
+## 📌 Featured Projects (What Interviewers Care About)
+
+### 🛒 E-commerce Screen Recorder App (iOS)
+**Tech:** Swift, UIKit, MVVM, Firebase, Realm  
+
+**Key Contributions:**
+- Implemented **MVVM architecture** for scalability
+- Integrated **screen recording** with optimized performance
+- Firebase-backed authentication & real-time data sync
+- Offline data handling using Realm
+- Focused on memory optimization and smooth UI updates
+
+👉 *Shows architecture, performance awareness, and real-world complexity*
+
+---
+
+## 🧠 Knowledge & Confidence Level
+
+| Skill | Level |
+|------|-------|
+| Swift | <img src="https://img.shields.io/badge/Swift-90%25-orange?style=flat-square&logo=swift" /> |
+| UIKit | <img src="https://img.shields.io/badge/UIKit-85%25-black?style=flat-square&logo=apple" /> |
+| SwiftUI | <img src="https://img.shields.io/badge/SwiftUI-70%25-blue?style=flat-square&logo=swift" /> |
+| MVVM | <img src="https://img.shields.io/badge/MVVM-80%25-success?style=flat-square" /> |
+| Clean Architecture | <img src="https://img.shields.io/badge/Clean%20Architecture-65%25-yellow?style=flat-square" /> |
+| Firebase | <img src="https://img.shields.io/badge/Firebase-80%25-ffca28?style=flat-square&logo=firebase" />|
+| Realm / SQLite | <img src="https://img.shields.io/badge/Realm%20%2F%20SQLite-70%25-blueviolet?style=flat-square" />|
+
+
+
+## 📈 Currently Improving
+- Advanced SwiftUI patterns
+- Unit testing (XCTest)
+- Modular architecture
+- Performance optimization using Instruments
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
-<a href="https://github.com/RajPatel-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajPatel-5" height="30" width="40" /></a>
+  <a href="https://github.com/RajPatel-5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="github" height="30" width="40" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/realm" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
-
