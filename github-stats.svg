@@ -1,8 +1,8 @@
 <svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { fill: #F7B93E; font-size: 26px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; }
-    .label { fill: #9AEBA3; font-size: 18px; font-family: Arial, Helvetica, sans-serif; }
-    .value { fill: #9AEBA3; font-size: 18px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+    .title { fill:#F7B93E; font-size:26px; font-weight:700; font-family:Arial; }
+    .label { fill:#9AEBA3; font-size:18px; font-family:Arial; }
+    .value { fill:#9AEBA3; font-size:18px; font-weight:bold; font-family:Arial; }
   </style>
 
   <rect width="900" height="260" rx="18" fill="#1F2228"/>
@@ -18,22 +18,23 @@
   <text x="30" y="150" class="label">👥 Followers</text>
   <text x="230" y="150" class="value">0</text>
 
-  <text x="30" y="185" class="label">🔁 Following</text>
-  <text x="230" y="185" class="value">0</text>
+  <text x="30" y="185" class="label">🔥 Active Repos (1y)</text>
+  <text x="230" y="185" class="value">1</text>
 
   <g transform="translate(700,130)">
     <circle r="72" fill="none" stroke="#2E3440" stroke-width="12"/>
-    <circle r="72" fill="none" stroke="#F7B93E" stroke-width="12"
-            stroke-linecap="round"
-            stroke-dasharray="360"
-            stroke-dashoffset="40"
-            transform="rotate(-90)"/>
-    <text y="10" text-anchor="middle"
-          fill="#9AEBA3"
-          font-size="42"
-          font-weight="bold"
-          font-family="Arial, Helvetica, sans-serif">
-      A++
-    </text>
+    <circle r="72"
+      fill="none"
+      stroke="#F7B93E"
+      stroke-width="12"
+      stroke-linecap="round"
+      stroke-dasharray="452.3893421169302"
+      stroke-dashoffset="443.3415552745916"
+      transform="rotate(-90)"
+    />
+    <text y="-6" text-anchor="middle" fill="#9AEBA3"
+          font-size="42" font-weight="bold">C</text>
+    <text y="20" text-anchor="middle" fill="#9AEBA3"
+          font-size="16">2/100</text>
   </g>
 </svg>
