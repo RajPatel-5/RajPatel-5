@@ -1,50 +1,37 @@
 <svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect x="0" y="0" width="900" height="260" rx="18" fill="#1F2228"/>
+  <style>
+    .title { fill: #F7B93E; font-size: 26px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; }
+    .label { fill: #9AEBA3; font-size: 18px; font-family: Arial, Helvetica, sans-serif; }
+    .value { fill: #9AEBA3; font-size: 18px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+  </style>
 
-  <!-- Title -->
-  <text x="30" y="40" fill="#F7B93E" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
-    Raj Patel's GitHub Stats
-  </text>
+  <rect width="900" height="260" rx="18" fill="#1F2228"/>
 
-  <!-- Left stats -->
-  <g fill="#9AEBA3" font-size="18" font-family="Arial, Helvetica, sans-serif">
-    <text x="30" y="80">⭐ Total Stars:</text>
-    <text x="230" y="80">2.2k</text>
+  <text x="30" y="40" class="title">RajPatel-5's GitHub Stats</text>
 
-    <text x="30" y="115">🕒 Total Commits:</text>
-    <text x="230" y="115">1k</text>
+  <text x="30" y="80" class="label">⭐ Total Stars</text>
+  <text x="230" y="80" class="value">0</text>
 
-    <text x="30" y="150">🔀 Total PRs:</text>
-    <text x="230" y="150">202</text>
+  <text x="30" y="115" class="label">📦 Public Repos</text>
+  <text x="230" y="115" class="value">1</text>
 
-    <text x="30" y="185">❗ Total Issues:</text>
-    <text x="230" y="185">95</text>
+  <text x="30" y="150" class="label">👥 Followers</text>
+  <text x="230" y="150" class="value">0</text>
 
-    <text x="30" y="220">📦 Contributed To:</text>
-    <text x="230" y="220">63</text>
-  </g>
+  <text x="30" y="185" class="label">🔁 Following</text>
+  <text x="230" y="185" class="value">0</text>
 
-  <!-- Circular grade ring -->
   <g transform="translate(700,130)">
-    <!-- Ring background -->
     <circle r="72" fill="none" stroke="#2E3440" stroke-width="12"/>
-
-    <!-- Progress ring -->
-    <circle
-      r="72"
-      fill="none"
-      stroke="#F7B93E"
-      stroke-width="12"
-      stroke-linecap="round"
-      stroke-dasharray="360"
-      stroke-dashoffset="40"
-      transform="rotate(-90)"
-    />
-
-    <!-- Grade text -->
-    <text x="0" y="10" text-anchor="middle" fill="#9AEBA3"
-          font-size="42" font-weight="bold"
+    <circle r="72" fill="none" stroke="#F7B93E" stroke-width="12"
+            stroke-linecap="round"
+            stroke-dasharray="360"
+            stroke-dashoffset="40"
+            transform="rotate(-90)"/>
+    <text y="10" text-anchor="middle"
+          fill="#9AEBA3"
+          font-size="42"
+          font-weight="bold"
           font-family="Arial, Helvetica, sans-serif">
       A++
     </text>
