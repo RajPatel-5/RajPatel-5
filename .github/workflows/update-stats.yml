@@ -2,12 +2,13 @@ name: Update GitHub Stats SVG
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -15,10 +16,12 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install node-fetch
+      - run: npm install node-fetch@3
+
       - run: node generate-stats.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
 
       - run: |
           git config user.name "github-actions"
