@@ -9,6 +9,10 @@
 iOS Developer with hands-on experience building **production-ready apps** using **Swift and UIKit**, with growing expertise in **SwiftUI**. Strong focus on **clean architecture, performance, and maintainable code**. Comfortable working with APIs, local databases, and Firebase-backed applications.
 
 ---
+<p align="center">
+  <img src="./github-stats.svg" />
+</p>
+---
 
 ## 🔧 Core iOS Skills
 
